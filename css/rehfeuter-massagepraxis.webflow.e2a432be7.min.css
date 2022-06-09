@@ -1958,7 +1958,7 @@ a {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url(https://uploads-ssl.webflow.com/5f4a363398ddd33e5d3f11bd/5f4a55ec3a9c5489874c22d5_Logo_Landscape.svg);
+  background-image: url(/assets/images/5f4a55ec3a9c5489874c22d5_Logo_Landscape.svg);
   background-position: 0 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3172,7 +3172,7 @@ a {
     width: 48px;
     height: 48px;
     margin-top: 2px;
-    background-image: url(https://uploads-ssl.webflow.com/5f4a363398ddd33e5d3f11bd/5f4e8ab3d377f5ee56eaf301_Logo_Symbol.svg);
+    background-image: url(/assets/images/5f4e8ab3d377f5ee56eaf301_Logo_Symbol.svg);
     background-position: 50% 50%;
     background-size: contain;
   }
